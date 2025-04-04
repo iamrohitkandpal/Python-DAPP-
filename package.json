@@ -1,7 +1,13 @@
 {
+  "name": "dapp-python",
+  "version": "1.0.0",
+  "type": "module",
   "dependencies": {
+    "@huggingface/inference": "^2.8.1",
+    "@langchain/community": "^0.3.39",
     "@langchain/core": "^0.3.43",
-    "@langchain/textsplitters": "^0.1.0",
+    "@langchain/textsplitters": "latest",
+    "@supabase/supabase-js": "^2.49.4",
     "langchain": "^0.3.20"
   }
 }
