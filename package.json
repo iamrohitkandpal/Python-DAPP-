@@ -8,6 +8,7 @@
     "@langchain/core": "^0.3.43",
     "@langchain/textsplitters": "latest",
     "@supabase/supabase-js": "^2.49.4",
+    "express": "^5.1.0",
     "langchain": "^0.3.20"
   }
 }
